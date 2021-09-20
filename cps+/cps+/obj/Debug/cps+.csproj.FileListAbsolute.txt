@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\cps+\cps+\bin\Debug\cps+.exe.config
+C:\Users\julia\source\repos\cps+\cps+\bin\Debug\cps+.exe
+C:\Users\julia\source\repos\cps+\cps+\bin\Debug\cps+.pdb
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps+.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps_.Form1.resources
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps_.Properties.Resources.resources
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps+.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps+.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps+.exe
+C:\Users\julia\source\repos\cps+\cps+\obj\Debug\cps+.pdb
